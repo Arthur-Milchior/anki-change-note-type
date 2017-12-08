@@ -10,3 +10,5 @@ The only downside being that the identifier of the note change.
 I.e. you lose the content provided by the «info» button (i.e. the list of dates at which you clicked on again, hard, good, easy).
 Note however that the number of leech, the easyness, the date of next review, etc... are all preserved.
 
+#For developpers
+The method change, of ModelManager, is changed. It now returns the list of the new note ids of the changed note

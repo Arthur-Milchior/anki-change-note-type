@@ -61,5 +61,7 @@ def newChange(self,m,nids,newModel,fmap,cmap):
     new_nids=map(copyCard,nids)
     oldChange(self,m,new_nids,newModel,fmap,cmap)
     self.col.remNotes(nids)
+    self.col._remNotes(nids)
+    return new_nids
 
 ModelManager.change =newChange
