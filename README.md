@@ -12,3 +12,5 @@ Note however that the number of leech, the easyness, the date of next review, et
 
 #For developpers
 The method change, of ModelManager, is changed. It now returns the list of the new note ids of the changed note
+
+Update 2018-01-10: The creation date of note is preserved as much as possible (the date is incremented of a few miliseconds). The creation date of card is not preserved.
