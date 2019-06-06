@@ -1,0 +1,6 @@
+Currently, changing a note type require to sync the entire collection. This add-on symply removes this restriction and assumethat you, the user, will act wisely in order to avoid creating bugs.
+
+It means that you must sync all your devices before changing a note type, and then sync them after the note type. I.e. you must act exactly has you would have done without this add-on.
+
+
+To report bug, and for more informations, please go to https://github.com/Arthur-Milchior/anki-change-note-type.git

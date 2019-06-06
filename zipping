@@ -1,0 +1,2 @@
+rm changeNoteType.zip
+zip changeNoteType.zip config.* *py  LICENSE *.md zipping --exclude \*~ \*zip
