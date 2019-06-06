@@ -1,12 +1,8 @@
 # Changing a note type without requiring a full new sync.
 ## Rationale
-Currently, changing a note type require to sync the entire
-collection. This add-on symply removes this restriction and assume
-that you, the user, will act wisely in order to avoid creating bugs.
+Currently, changing a note type require to sync the entire collection. This add-on symply removes this restriction and assumethat you, the user, will act wisely in order to avoid creating bugs.
 
-It means that you must sync all your devices before changing a note
-type, and then sync them after the note type. I.e. you must act
-exactly has you would have done without this add-on.
+It means that you must sync all your devices before changing a note type, and then sync them after the note type. I.e. you must act exactly has you would have done without this add-on.
 
 ## Warning
 If you select a note `n` on your computer, and change its note type,
@@ -41,3 +37,4 @@ Based on    | Anki code by Damien Elmes <anki@ichi2.net>
 License     | GNU AGPL, version 3 or later; http://www.gnu.org/licenses/agpl.html
 Source in   | https://github.com/Arthur-Milchior/anki-change-note-type.git
 Addon number| [719871418](https://ankiweb.net/shared/info/719871418)
+Support me on| [![Ko-fi](https://ko-fi.com/img/Kofi_Logo_Blue.svg)](Ko-fi.com/arthurmilchior) or [![Patreon](http://www.milchior.fr/patreon.png)](https://www.patreon.com/bePatron?u=146206)
